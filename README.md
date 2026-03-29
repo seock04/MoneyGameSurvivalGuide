@@ -10,20 +10,20 @@
 
 ## 📖 목차별 바로가기
 
-* [**표지 및 요약서**](chapters/00_Cover.md)
+* [**표지 및 요약서**](chapters/00_표지.md)
 
-* 🏁 **[프롤로그]** [인생 갓겜, 렉 걸린 너도 고인물 될 수 있어. 일단 접속이나 해!](chapters/00_Prologue.md)
-* 📖 **[Chapter 1.]** [부의 게임 로그인: 당신은 왜 이 게임에 접속해야 하는가?](chapters/01_Login_to_Wealth_Game.md)
-* 📖 **[Chapter 2.]** [부의 게임, ‘자동 사냥’ 모드로 전환하세요. 한 번 이해하고 평생 써먹는 시스템 설계](chapters/02_Auto_Hunting_Mode.md)
-* 📖 **[Chapter 3.]** [당신의 통장은 죄가 없다, 기억이 문제지](chapters/03_Your_Memory_Not_Your_Account.md)
-* 📖 **[Chapter 4.]** [아들러 씨의 재무 상담소: ‘망한 판’이라고 로그아웃 하기엔 보너스 스테이지가 너무 아깝다](chapters/04_Adler_Financial_Clinic.md)
-* 📖 **[Chapter 5.]** ["지도는 됐고 나침반이나 주세요" (인생 북극성과 재무목표)](chapters/05_Compass_Not_Map.md)
-* 📖 **[Chapter 6.]** [게으른 천재의 마법: 눈덩이를 굴리는 가장 쉬운 법 (복리와 시간)](chapters/06_Lazy_Genius_Magic_Compound_Interest.md)
-* 📖 **[Chapter 7.]** [밤잠을 설치지 않는 '대충 합리적'인 따뜻한 투자의 미학: 내 통장과 식탁의 평화를 지키는 기술](chapters/07_Rational_Warm_Investment.md)
-* 📖 **[Chapter 8.]** [부의 무한 게임: "죽지만 않으면 당신이 이깁니다" (생존 전략)](chapters/08_Infinite_Game_Survival.md)
-* 📖 **[Chapter 9.]** [거인들의 어깨 위에서 대충 날기 (워런 버핏, 존 보글, 레이 달리오)](chapters/09_Fly_Roughly_on_Giants_Shoulders.md)
-* 📖 **[Chapter 10.]** [인생의 사계절: 20대의 패기와 60대의 여유 (인생 주기별 투자)](chapters/10_Seasons_of_Life.md)
-* 📖 **[Chapter 11.]** [[히든 스테이지] 행복하게 '벌기' 와 ‘돈의 파이프라인’](chapters/11_Hidden_Stage_Earning.md)
-* 🏁 **[에필로그]** ["게임 종료는 없습니다, 계속 살아남으세요"](chapters/12_Epilogue.md)
+* 🏁 **[프롤로그]** [인생 갓겜, 렉 걸린 너도 고인물 될 수 있어. 일단 접속이나 해!](chapters/00_프롤로그.md)
+* 📖 **[Chapter 1.]** [부의 게임 로그인: 당신은 왜 이 게임에 접속해야 하는가?](chapters/01_부의_게임_로그인.md)
+* 📖 **[Chapter 2.]** [부의 게임, ‘자동 사냥’ 모드로 전환하세요. 한 번 이해하고 평생 써먹는 시스템 설계](chapters/02_자동_사냥_모드.md)
+* 📖 **[Chapter 3.]** [당신의 통장은 죄가 없다, 기억이 문제지](chapters/03_당신의_기억이_문제지.md)
+* 📖 **[Chapter 4.]** [아들러 씨의 재무 상담소: ‘망한 판’이라고 로그아웃 하기엔 보너스 스테이지가 너무 아깝다](chapters/04_아들러_재무_상담소.md)
+* 📖 **[Chapter 5.]** ["지도는 됐고 나침반이나 주세요" (인생 북극성과 재무목표)](chapters/05_나침반이나_주세요.md)
+* 📖 **[Chapter 6.]** [게으른 천재의 마법: 눈덩이를 굴리는 가장 쉬운 법 (복리와 시간)](chapters/06_게으른_천재의_마법.md)
+* 📖 **[Chapter 7.]** [밤잠을 설치지 않는 '대충 합리적'인 따뜻한 투자의 미학: 내 통장과 식탁의 평화를 지키는 기술](chapters/07_대충_합리적인_따뜻한_투자.md)
+* 📖 **[Chapter 8.]** [부의 무한 게임: "죽지만 않으면 당신이 이깁니다" (생존 전략)](chapters/08_부의_무한_게임_생존.md)
+* 📖 **[Chapter 9.]** [거인들의 어깨 위에서 대충 날기 (워런 버핏, 존 보글, 레이 달리오)](chapters/09_거인들의_어깨_위에서_대충_날기.md)
+* 📖 **[Chapter 10.]** [인생의 사계절: 20대의 패기와 60대의 여유 (인생 주기별 투자)](chapters/10_인생의_사계절.md)
+* 📖 **[Chapter 11.]** [[히든 스테이지] 행복하게 '벌기' 와 ‘돈의 파이프라인’](chapters/11_히든_스테이지_벌기.md)
+* 🏁 **[에필로그]** ["게임 종료는 없습니다, 계속 살아남으세요"](chapters/12_에필로그.md)
 
 > 💡 **안내:** 목차의 각 링크를 클릭하시면 해당 챕터 페이지로 바로 이동하여 내용을 읽으실 수 있습니다.
