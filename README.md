@@ -11,18 +11,14 @@
 ---
 
 ## Structure
-- `chapters/` : 장별 원고
-- `notes/` : 메모/아이디어
-- `assets/` : 이미지/자료
-
-- 파일은 작게, 자주 commit
-- 장별로 분리해서 관리
-- 원고는 private repository 권장
+- `chapters/` : 장별 원고 및 이미지 자산
+- `guides/` : 집필 및 가독성 가이드 파일
+- `README.md` : 프로젝트 개요 및 목차
 
 ---
 
-## 🎨 [집필 규칙 보러가기 (Writing Rules)](WRITING_RULES.md)
-## 📱 [가독성 가이드 보러가기 (Display Guide)](DISPLAY_GUIDE.md)
+## 🎨 [집필 규칙 보러가기 (Writing Rules)](guides/WRITING_RULES.md)
+## 📱 [가독성 가이드 보러가기 (Display Guide)](guides/DISPLAY_GUIDE.md)
 책의 일관성 있는 집필과 최상의 가독성을 위해 정의된 가이드들입니다. 작성 시 내용을 반드시 참고합니다.
 
 ---
