@@ -1,0 +1,7 @@
+interface:
+  display_name: "MoneyGame Fact Check"
+  short_description: "원고 사실검증/각주"
+  default_prompt: "Use $moneygame-fact-check to identify verifiable claims in chapters, research sources, propose footnotes with target-audience clarity in mind (assets/target_audience.md), and write a log under status/fact_check/ step-by-step."
+
+policy:
+  allow_implicit_invocation: false

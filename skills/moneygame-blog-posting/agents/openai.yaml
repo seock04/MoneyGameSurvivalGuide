@@ -1,0 +1,7 @@
+interface:
+  display_name: "MoneyGame Blog Posting"
+  short_description: "책 기반 블로그 스킬"
+  default_prompt: "Use $moneygame-blog-posting to plan 100 book-based blog posts tailored to assets/target_audience.md and save outputs under Additionals/blog_posts/ step-by-step. For each post draft/final, create and embed 2 images (main + reinforce) using image generation when available; otherwise leave prompts/placeholders and file paths under Additionals/blog_posts/assets/images/."
+
+policy:
+  allow_implicit_invocation: false

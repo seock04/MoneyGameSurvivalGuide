@@ -1,0 +1,7 @@
+interface:
+  display_name: "MoneyGame Tone Review"
+  short_description: "톤&매너 점검 리포트"
+  default_prompt: "Use $moneygame-tone-review to audit the manuscript tone against guides and the target audience (assets/target_audience.md), and save a report under status/tone_review/ step-by-step."
+
+policy:
+  allow_implicit_invocation: false

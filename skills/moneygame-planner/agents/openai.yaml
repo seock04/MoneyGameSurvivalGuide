@@ -1,0 +1,7 @@
+interface:
+  display_name: "MoneyGame Planner"
+  short_description: "원고/파생콘텐츠 로드맵 플래너"
+  default_prompt: "Use $moneygame-planner to review the current manuscript status against assets/target_audience.md and update status/roadmap.md step-by-step."
+
+policy:
+  allow_implicit_invocation: false

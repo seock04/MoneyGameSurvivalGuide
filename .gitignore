@@ -1,0 +1,4 @@
+.DS_Store
+.env
+.env.*
+chapters/images/*_placeholder.png

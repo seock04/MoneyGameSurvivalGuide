@@ -13,13 +13,15 @@
 ## Structure
 - `chapters/` : 장별 원고 및 이미지 자산
 - `guides/` : 집필 및 가독성 가이드 파일
+- `AGENTS.md` : AI 작업용 운영 규칙
 - `README.md` : 프로젝트 개요 및 목차
 
 ---
 
+## 🤖 [AI 작업 규칙 보러가기 (AGENTS.md)](AGENTS.md)
 ## 🎨 [집필 규칙 보러가기 (Writing Rules)](guides/WRITING_RULES.md)
 ## 📱 [가독성 가이드 보러가기 (Display Guide)](guides/DISPLAY_GUIDE.md)
-책의 일관성 있는 집필과 최상의 가독성을 위해 정의된 가이드들입니다. 작성 시 내용을 반드시 참고합니다.
+책의 일관성 있는 집필과 최상의 가독성을 위해 정의된 가이드들입니다. AI로 작업할 때는 `AGENTS.md`를 먼저 확인하고, 상세 기준은 집필 규칙과 가독성 가이드를 따릅니다.
 
 ---
 
