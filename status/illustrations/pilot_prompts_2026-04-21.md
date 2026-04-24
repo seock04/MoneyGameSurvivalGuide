@@ -17,13 +17,13 @@
 
 ---
 
-## ch00_hero (프롤로그: 심리적 렉, 로그인)
+## ch00_hero (프롤로그: 심리적 지연, 로그인)
 
 의도:
-- "실행을 가로막는 심리적 렉"을 따뜻하게 묘사하고, "대충이라도 로그인"의 출발 감각을 만든다.
+- "실행을 가로막는 심리적 지연"을 따뜻하게 묘사하고, "대충이라도 로그인"의 출발 감각을 만든다.
 
 프롬프트(초안):
-- A cozy, warm-toned minimal illustration. A person stands in front of a game-like login screen, finger hovering over a big 'Login' button, but the screen shows a gentle 'Lag' icon (loading spinner) between mind and body. Show a small split of two characters: a planner (thinking bubble with checklist) and a doer (holding a delivery app icon), connected by a slightly tangled cable labeled only as a small icon (no readable text). The mood is reassuring, not anxious. No luxury, no fear. Simple shapes, soft light.
+- A cozy, warm-toned minimal illustration. A person stands in front of a game-like login screen, finger hovering over a big 'Login' button, but the screen shows a gentle 'delay (lag)' icon (loading spinner) between mind and body. Show a small split of two characters: a planner (thinking bubble with checklist) and a doer (holding a delivery app icon), connected by a slightly tangled cable labeled only as a small icon (no readable text). The mood is reassuring, not anxious. No luxury, no fear. Simple shapes, soft light.
 
 ---
 
@@ -44,4 +44,3 @@
 
 프롬프트(초안):
 - Warm, minimal illustration. A game inventory screen opened like a tidy drawer. Two compartments: 'cashflow' represented by a gentle flowing stream icon, and 'balance' represented by a stable scale icon. A small character places simple items (coin pouch, calendar, shield) neatly into slots, showing organization and calm. No luxury, no fear, no stock tickers. Soft lighting, simple composition, friendly mood.
-
