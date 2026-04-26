@@ -1,0 +1,7 @@
+interface:
+  display_name: "MoneyGame Completion Auditor"
+  short_description: "책 완성도 99% 평가 루프"
+  default_prompt: "Use $moneygame-completion-auditor to audit the MoneyGameSurvivalGuide manuscript for publication readiness. Score the full book with the rubric, check hard gates, save a report under status/completion_audit/, then propose the smallest next patch queue needed to move toward 99%+."
+
+policy:
+  allow_implicit_invocation: false
