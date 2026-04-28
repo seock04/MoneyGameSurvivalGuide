@@ -26,6 +26,6 @@
 
 ## Sources
 
-- Book: [Chapter 2](../../chapters/02_부의_게임_자동_사냥_모드로_전환하세요.md)
+- Book: [Chapter 2](../../chapters/02_부의_게임_자동화_시스템으로_전환하세요.md)
 - Book: [Chapter 9](../../chapters/09_부의_무한_게임_생존.md)
 

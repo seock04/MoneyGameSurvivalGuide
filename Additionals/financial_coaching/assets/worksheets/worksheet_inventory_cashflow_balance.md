@@ -33,5 +33,5 @@
 
 ## Sources
 
-- Book: [Chapter 6](../../chapters/06_당신의_인벤토리를_열어보세요.md)
+- Book: [Chapter 6](../../chapters/06_당신의_재무_상태를_열어보세요.md)
 

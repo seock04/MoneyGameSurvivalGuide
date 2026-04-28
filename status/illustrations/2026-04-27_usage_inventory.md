@@ -10,16 +10,16 @@
 |---|---|
 | `cover_b_v2.png` | `chapters/00_표지.md` |
 | `ch00_hero.png` | `chapters/00_프롤로그.md` |
-| `ch01_hero_v2.png` | `chapters/01_부의_게임_로그인.md` |
-| `ch01_inflation_v2.png` | `chapters/01_부의_게임_로그인.md` |
-| `ch02_hero_v2.png` | `chapters/02_부의_게임_자동_사냥_모드로_전환하세요.md` |
-| `ch02_20s_navigator_v2.png` | `chapters/02_부의_게임_자동_사냥_모드로_전환하세요.md` |
-| `ch02_30s_family_system_v2.png` | `chapters/02_부의_게임_자동_사냥_모드로_전환하세요.md` |
-| `ch02_emotion_firewall_v2.png` | `chapters/02_부의_게임_자동_사냥_모드로_전환하세요.md` |
+| `ch01_hero_v2.png` | `chapters/01_부의_게임_시작하기.md` |
+| `ch01_inflation_v2.png` | `chapters/01_부의_게임_시작하기.md` |
+| `ch02_hero_v2.png` | `chapters/02_부의_게임_자동화_시스템으로_전환하세요.md` |
+| `ch02_20s_navigator_v2.png` | `chapters/02_부의_게임_자동화_시스템으로_전환하세요.md` |
+| `ch02_30s_family_system_v2.png` | `chapters/02_부의_게임_자동화_시스템으로_전환하세요.md` |
+| `ch02_emotion_firewall_v2.png` | `chapters/02_부의_게임_자동화_시스템으로_전환하세요.md` |
 | `ch03_hero.png` | `chapters/03_당신의_통장은_죄가_없다_기억이_문제지.md` |
 | `ch04_hero.png` | `chapters/04_아들러_씨의_재무_상담소.md` |
 | `ch05_hero.png` | `chapters/05_지도는_됐고_나침반이나_주세요.md` |
-| `ch06_hero.png` | `chapters/06_당신의_인벤토리를_열어보세요.md` |
+| `ch06_hero.png` | `chapters/06_당신의_재무_상태를_열어보세요.md` |
 | `ch07_hero.png` | `chapters/07_지속_가능한_성장의_마법.md` |
 | `img_1.png` | `chapters/07_지속_가능한_성장의_마법.md` |
 | `ch08_hero.png` | `chapters/08_대충_합리적인_따뜻한_투자.md` |

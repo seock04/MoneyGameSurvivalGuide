@@ -28,10 +28,10 @@
 
 ## Sources
 
-- Book: [Chapter 1](../../chapters/01_부의_게임_로그인.md)
-- Book: [Chapter 2](../../chapters/02_부의_게임_자동_사냥_모드로_전환하세요.md)
+- Book: [Chapter 1](../../chapters/01_부의_게임_시작하기.md)
+- Book: [Chapter 2](../../chapters/02_부의_게임_자동화_시스템으로_전환하세요.md)
 - Book: [Chapter 5](../../chapters/05_지도는_됐고_나침반이나_주세요.md)
-- Book: [Chapter 6](../../chapters/06_당신의_인벤토리를_열어보세요.md)
+- Book: [Chapter 6](../../chapters/06_당신의_재무_상태를_열어보세요.md)
 - Book: [Chapter 9](../../chapters/09_부의_무한_게임_생존.md)
 - Book: [Additionals Rules](../../Additionals/RULES.md)
 

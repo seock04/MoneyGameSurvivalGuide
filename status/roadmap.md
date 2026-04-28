@@ -51,6 +51,10 @@
 - Round 3에서 6장 Sources 보강, R-ONE 2025.12 종료값 API 확인, 이미지 보관 정책, README 구조 보강을 반영했다.
 - Completion audit Round 3 점수는 97.1점이며, Medium 이슈 0개 상태로 강연 슬라이드 기획을 완료했다: `status/completion_audit/2026-04-27_round-3.md`
 - 강연자료 기획 산출물은 메시지 맵, 60분 슬라이드 초안, handout까지 작성했다.
+- 전자책 출판 트랙을 병행 작업으로 추가했다. 한국 전자책 발간 전문가 스킬과 출판 실행 계획을 생성했다: `skills/moneygame-korean-ebook-publisher/SKILL.md`, `status/ebook_publishing/2026-04-28_korean_ebook_publication_plan.md`
+- 전자책 1차 출간 경로는 대행·셀프 플랫폼으로 잡고, e퍼플을 1순위로 확인한다. 공개 저자명은 `최호석(호호코치)` 추천, 정가는 `6,900원`을 1차 후보로 둔다.
+- 1차/e퍼플, 2차/자체 출판사, 보조/PDF 실행 보드를 만들고 EPUB 출력 구조와 플랫폼 listing copy 초안을 작성했다: `status/ebook_publishing/2026-04-28_route_execution.md`
+- EPUB 빌드 툴체인은 Homebrew로 설치 완료했다. `pandoc 3.9.0.2`, `EPUBCheck 5.3.0` 사용 가능 상태다.
 
 ## 0) 현재 상태 점검 (원고)
 
@@ -169,6 +173,14 @@ Step 6. 최종 통합 점검(가독성/링크/일관성)
 강연 자료 로드맵 진행 조건:
 - 최종 제작은 Step 1~5 Round 반복으로 품질 기준 99% 이상을 만족하고, Step 6 최종 통합 점검까지 통과한 뒤에 진행한다.
 - 단, completion audit 점수가 85% 이상이면 전체 책을 포괄하는 강연자료(Google Slides) 기획은 작업 큐에 올릴 수 있다.
+
+전자책 출판 로드맵 진행 조건:
+- Completion audit Round 3에서 Medium 이슈 0개, 97.1점 상태이므로 전자책 출판 준비 트랙을 병행한다.
+- 실제 플랫폼 등록 전에는 EPUBCheck, 국내 뷰어 QA, ISBN/납본/유통 경로 확인을 완료해야 한다.
+- 1차 경로는 e퍼플 무료 제작·유통 조건을 우선 확인하되, 판매 후 공제/정산율/ISBN 주체는 계약 전 재확인한다.
+- 전자책 실행 문서: `status/ebook_publishing/2026-04-28_korean_ebook_publication_plan.md`
+- 실행 보드: `status/ebook_publishing/2026-04-28_route_execution.md`
+- 다음 게이트는 `metadata.yaml`, `ebook.css`, 통합 원고 생성 후 1차 EPUBCheck 실행이다.
 
 ---
 

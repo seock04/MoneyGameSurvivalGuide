@@ -16,6 +16,6 @@
 
 ## Sources
 
-- Book: [Chapter 2](../../chapters/02_부의_게임_자동_사냥_모드로_전환하세요.md)
+- Book: [Chapter 2](../../chapters/02_부의_게임_자동화_시스템으로_전환하세요.md)
 - Book: [Chapter 8](../../chapters/08_대충_합리적인_따뜻한_투자.md)
 

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Korean Ebook Publisher"
+  short_description: "한국 전자책 출간 실무 점검"
+  default_prompt: "Use $moneygame-korean-ebook-publisher to review the manuscript package, EPUB/ISBN/legal deposit requirements, and domestic platform launch plan."
+
+policy:
+  allow_implicit_invocation: false
