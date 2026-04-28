@@ -12,7 +12,9 @@
 
 ## Structure
 - `chapters/` : 장별 원고 및 이미지 자산
+- `Additionals/` : 책 기반 강의, 코칭, 블로그, 마케팅 보조 자료
 - `guides/` : 집필 및 가독성 가이드 파일
+- `status/` : 완성도 점검, 팩트체크, 일러스트, 로드맵 등 작업 로그
 - `AGENTS.md` : AI 작업용 운영 규칙
 - `README.md` : 프로젝트 개요 및 목차
 

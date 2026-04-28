@@ -37,7 +37,7 @@
 업데이트(2026-04-26):
 - `moneygame-completion-auditor` 기준 1차 완성도 점검 결과, 콘텐츠 완성도는 88.5점이다.
 - 즉시 후속 패치로 렌더링 위험을 정리해 현재 추정 점수는 90.0점이다.
-- 99% 출간 게이트는 아직 통과하지 못했다. 주요 사유는 일부 Sources 보강, 3/5/10장 페이싱 정리다.
+- 99% 출간 게이트는 아직 통과하지 못했다. 당시 주요 사유는 일부 Sources 보강, 3/5/10장 페이싱 정리였다.
 - 다만 85% 콘텐츠 완성도 게이트는 넘었으므로, 전체 책을 포괄하는 강연자료(Google Slides) 기획은 작업 큐에 추가한다.
 - 실제 최종 슬라이드 제작은 원고 99% 게이트 통과 후 또는 사용자 명시 승인 후 진행한다.
 
@@ -47,7 +47,10 @@
 - 3/5/10장 페이싱 압축은 본문 대량 삭제 전 후보 문서로 분리했다: `status/pacing_compression/2026-04-27_round-2_candidates.md`
 - 사용자 승인 범위에 따라 3장/5장 압축과 10장 브리지 보강을 반영했다.
 - 추가 발견 사항 기준으로 10장 S&P 500/환율 수치 검산, 14장 질문 보강, 9장 생존선 템플릿, 이미지 사용 인벤토리 작성을 완료했다.
-- 남은 Round 2B 리스크는 한국부동산원 R-ONE 동적 통계의 수동 재확인과 미사용 이미지 정리 정책 결정이다.
+- Round 2B 당시 남은 리스크는 한국부동산원 R-ONE 동적 통계의 수동 재확인과 미사용 이미지 정리 정책 결정이었다.
+- Round 3에서 6장 Sources 보강, R-ONE 2025.12 종료값 API 확인, 이미지 보관 정책, README 구조 보강을 반영했다.
+- Completion audit Round 3 점수는 97.1점이며, Medium 이슈 0개 상태로 강연 슬라이드 기획을 완료했다: `status/completion_audit/2026-04-27_round-3.md`
+- 강연자료 기획 산출물은 메시지 맵, 60분 슬라이드 초안, handout까지 작성했다.
 
 ## 0) 현재 상태 점검 (원고)
 
@@ -152,7 +155,16 @@ Step 6. 최종 통합 점검(가독성/링크/일관성)
    - 14장 체크인/레벨업 질문 보강: 완료
    - 9장 `내 생존선` 템플릿 추가: 완료
    - 이미지 사용 인벤토리 작성: 완료 (`status/illustrations/2026-04-27_usage_inventory.md`)
-   - 남은 항목: R-ONE 수동 재확인, 미사용 이미지 정리 정책 결정
+   - 상태: Round 3에서 후속 정리 완료
+
+6. Round 3 마감 점검
+   - 6장 Sources 보강: 완료
+   - R-ONE 2025.12 종료값 API 확인: 완료
+   - 미사용 이미지 정책: 삭제하지 않고 `chapters/images/archive/` 이동 완료
+   - README Structure 보강: 완료
+   - completion audit Round 3: 완료 (`status/completion_audit/2026-04-27_round-3.md`)
+   - Medium closeout: 완료 (`status/manuscript_audit/2026-04-27_round-3_medium_closeout.md`)
+   - 다음 작업: 실제 Google Slides 제작
 
 강연 자료 로드맵 진행 조건:
 - 최종 제작은 Step 1~5 Round 반복으로 품질 기준 99% 이상을 만족하고, Step 6 최종 통합 점검까지 통과한 뒤에 진행한다.
@@ -178,8 +190,8 @@ Step 6. 최종 통합 점검(가독성/링크/일관성)
 ### 2-A) 전체 책 기반 Google Slides 기획(85% 게이트 통과로 큐 추가)
 
 상태:
-- 2026-04-26 completion audit Round 1에서 콘텐츠 완성도 88.5점으로 85% 게이트를 넘었다.
-- 원고 99% 게이트 전이므로 실제 최종 슬라이드 제작이 아니라, 전체 구조와 슬라이드 메시지 맵을 먼저 만든다.
+- 2026-04-27 completion audit Round 3에서 콘텐츠 완성도 95.6점으로 강연 기획 착수 상태가 됐다.
+- 원고 99% 출간 게이트 전이므로 실제 최종 Google Slides 제작이 아니라, 전체 구조와 슬라이드 메시지 맵, 60분 초안부터 만든다.
 
 기획 문서:
 - `Additionals/financial_lectures/outlines/full_book_google_slides_plan.md`
@@ -187,8 +199,10 @@ Step 6. 최종 통합 점검(가독성/링크/일관성)
 작업 큐:
 1. 전체 책을 12개 파트로 나눈 슬라이드 메시지 맵 작성
    - 산출물: `Additionals/financial_lectures/outlines/full_book_slide_message_map.md`
+   - 상태: 완료
 2. 60분 버전 Google Slides 초안 작성
    - 산출물: `Additionals/financial_lectures/drafts/full_book_60m_google_slides.md`
+   - 상태: 완료
 3. 120분/180분 확장안 작성
    - 산출물:
      - `Additionals/financial_lectures/drafts/full_book_120m_google_slides.md`

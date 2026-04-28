@@ -34,33 +34,33 @@
 | `ch14_hero_v2.png` | `chapters/14_에필로그.md` |
 | `ch14_closing_system_v2.png` | `chapters/14_에필로그.md` |
 
-## Unused Images
+## Archived Images
 
-| image | likely status |
+| image | status |
 |---|---|
-| `ch00_hero_placeholder.png` | placeholder, 정리 후보 |
-| `ch01_hero.png` | 구버전, 정리 후보 |
-| `ch01_login.png` | 구버전/보조 이미지, 정리 후보 |
-| `ch02_autofarming.png` | 구버전/보조 이미지, 정리 후보 |
-| `ch02_hero.png` | 구버전, 정리 후보 |
-| `ch03_hero_placeholder.png` | placeholder, 정리 후보 |
-| `ch04_hero_placeholder.png` | placeholder, 정리 후보 |
-| `ch05_hero_placeholder.png` | placeholder, 정리 후보 |
-| `ch06_hero_placeholder.png` | placeholder, 정리 후보 |
-| `ch07_hero_placeholder.png` | placeholder, 정리 후보 |
-| `ch11_hero.png` | 구버전, 정리 후보 |
-| `ch14_hero.jpg` | 구버전, 정리 후보 |
-| `cover_b.png` | 구버전, 정리 후보 |
-| `img_0.png` | 미참조 보조 이미지, 확인 필요 |
-| `img_4.png` | 미참조 보조 이미지, 확인 필요 |
-| `img_5.png` | 미참조 보조 이미지, 확인 필요 |
-| `img_6.png` | 미참조 보조 이미지, 확인 필요 |
-| `img_7.png` | 미참조 보조 이미지, 확인 필요 |
-| `img_8.png` | 미참조 보조 이미지, 확인 필요 |
-| `img_9.jpg` | 미참조 보조 이미지, 확인 필요 |
+| `archive/ch00_hero_placeholder.png` | placeholder, archive 이동 완료 |
+| `archive/ch01_hero.png` | 구버전, archive 이동 완료 |
+| `archive/ch01_login.png` | 구버전/보조 이미지, archive 이동 완료 |
+| `archive/ch02_autofarming.png` | 구버전/보조 이미지, archive 이동 완료 |
+| `archive/ch02_hero.png` | 구버전, archive 이동 완료 |
+| `archive/ch03_hero_placeholder.png` | placeholder, archive 이동 완료 |
+| `archive/ch04_hero_placeholder.png` | placeholder, archive 이동 완료 |
+| `archive/ch05_hero_placeholder.png` | placeholder, archive 이동 완료 |
+| `archive/ch06_hero_placeholder.png` | placeholder, archive 이동 완료 |
+| `archive/ch07_hero_placeholder.png` | placeholder, archive 이동 완료 |
+| `archive/ch11_hero.png` | 구버전, archive 이동 완료 |
+| `archive/ch14_hero.jpg` | 구버전, archive 이동 완료 |
+| `archive/cover_b.png` | 구버전, archive 이동 완료 |
+| `archive/img_0.png` | 미참조 보조 이미지, archive 이동 완료 |
+| `archive/img_4.png` | 미참조 보조 이미지, archive 이동 완료 |
+| `archive/img_5.png` | 미참조 보조 이미지, archive 이동 완료 |
+| `archive/img_6.png` | 미참조 보조 이미지, archive 이동 완료 |
+| `archive/img_7.png` | 미참조 보조 이미지, archive 이동 완료 |
+| `archive/img_8.png` | 미참조 보조 이미지, archive 이동 완료 |
+| `archive/img_9.jpg` | 미참조 보조 이미지, archive 이동 완료 |
 
 ## Recommendation
 
-- placeholder 파일과 명확한 구버전 파일은 최종 출간 전 삭제 또는 `archive` 이동 후보로 둔다.
-- `img_0`, `img_4`~`img_9`는 어떤 생성 라운드에서 나온 보조 이미지인지 확인한 뒤 정리한다.
-- 실제 삭제는 본문 링크 검증과 사용자 확인 후 진행한다.
+- Round 3 기준 정책은 `삭제하지 않고 archive 보관`이다.
+- 본문에서 참조하지 않는 placeholder, 구버전, 미참조 보조 이미지는 `chapters/images/archive/`로 이동했다.
+- 실제 삭제는 하지 않는다. 생성 라운드 추적 가치를 보존한다.

@@ -4,7 +4,7 @@
 
 이 문서는 『부의 게임, 대충 뛰어들어 끝까지 살아남기』 전체 내용을 하나의 강연용 Google Slides 자료로 전환하기 위한 작업 계획이다.
 
-현재 원고 완성도는 `status/completion_audit/2026-04-26_round-1.md` 기준 85% 콘텐츠 완성도 게이트를 넘었다. 즉시 렌더링 패치 후 추정 점수는 90.0점이다. 따라서 실제 슬라이드 제작 전 단계인 강연자료 기획을 작업 큐에 올릴 수 있다. 단, 원고 99% 게이트 통과 전까지는 최종 슬라이드 제작보다 구조 설계와 챕터 매핑에 집중한다.
+현재 원고 완성도는 `status/completion_audit/2026-04-27_round-3.md` 기준 95.6점이며, 강연 기획 착수 게이트를 통과했다. 따라서 실제 슬라이드 제작 전 단계인 강연자료 기획을 진행한다. 단, 원고 99% 출간 게이트 통과 전까지는 최종 Google Slides 제작보다 구조 설계, 메시지 맵, speaker notes 초안에 집중한다.
 
 ## 핵심 메시지
 
@@ -49,12 +49,14 @@
 - 목표: 전체 챕터를 12개 파트, 30~60개 슬라이드 후보로 압축한다.
 - 산출물: `Additionals/financial_lectures/outlines/full_book_slide_message_map.md`
 - 검증: 각 슬라이드 후보가 최소 1개 `chapters/` 링크를 가진다.
+- 상태: Round 3에서 60분 버전 메시지 맵 작성 완료.
 
 ### Queue 2: 60분 버전 Google Slides 초안
 
 - 목표: 가장 짧은 대표 강연 버전을 먼저 만든다.
 - 산출물: `Additionals/financial_lectures/drafts/full_book_60m_google_slides.md`
 - 검증: 특정 상품 추천, 수익 보장, 공포 마케팅 문장이 없다.
+- 상태: 작성 완료. 23장 슬라이드 초안과 speaker notes를 포함한다.
 
 ### Queue 3: 120분/180분 확장안
 
@@ -66,7 +68,7 @@
 
 ### Queue 4: 실제 Google Slides 제작
 
-- 전제: 원고 completion audit 99% 게이트 통과 또는 사용자 승인.
+- 전제: 사용자 승인.
 - 목표: Google Slides에 옮길 수 있는 완성형 슬라이드 원고를 만든다.
 - 산출물: 최종 슬라이드 원고와 speaker notes.
 
