@@ -1,0 +1,9 @@
+Use case: infographic-diagram
+Asset type: Korean personal finance book chapter illustration, 16:9 PNG-style raster asset
+Primary request: Create a warm, minimal, friendly illustration comparing three income pipeline trees for a chapter about small sustainable earning systems.
+Scene/backdrop: A small calm garden with three young trees growing side by side, watered by simple pipes from different small sources.
+Subject: Three distinct trees represented only through visual metaphor: one fast small tree with a clock and simple tools nearby for labor-based side income, one medium tree with notebooks and a small screen for knowledge/service income, one slower sturdy tree with coins/seeds at the roots for capital income. A small character waters one seedling calmly, not rushing.
+Style: warm rationality, soft editorial illustration, gentle growth, practical and reassuring, Korean book illustration feel, minimal but rich.
+Text policy: no readable text, no numbers, no brand names, no platform logos, no watermarks. Icons only.
+Avoid: hustle culture, luxury cars, cash rain, extreme success imagery, pressure, fear.
+Composition: three trees clearly comparable, balanced and uncluttered, suitable for Markdown insertion, 16:9.

@@ -1,0 +1,8 @@
+Use case: infographic-diagram
+Asset type: Korean personal finance book chapter illustration, 16:9 PNG-style raster asset
+Primary request: Create a warm, minimal, friendly illustration for a chapter section explaining a personal finance worksheet.
+Scene/backdrop: A calm desk seen from a slightly elevated angle, soft warm light, tidy paper cards and a tablet-like worksheet arranged neatly.
+Subject: A simple personal finance worksheet map with six visual zones represented by icons only: assets as a small coin stack, liabilities as a gentle loan note, net worth as a balanced scale, income as incoming stream, expenses as outgoing small basket, surplus cash as a small seed jar. A small calm character organizes the cards with a pencil.
+Style: warm rationality, soft editorial illustration, clean shapes, gentle colors, Korean book illustration feel, minimal but rich, no fear, no luxury, no aggressive finance imagery.
+Text policy: no readable text, no numbers, no tickers, no brand names, no logos, no watermarks. Use icons and abstract cards only.
+Composition: centered, generous margins, clear hierarchy, suitable for insertion between Markdown paragraphs, 16:9.

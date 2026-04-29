@@ -1,5 +1,7 @@
 # Illustration Usage Inventory: 2026-04-27
 
+Updated: 2026-04-29 Round 2 enrichment patch
+
 ## Purpose
 
 챕터 본문에서 실제로 참조하는 이미지와 미사용 이미지를 구분해, 최종 출간 전 정리 대상을 명확히 한다. 이번 문서는 삭제 지시가 아니라 사용 현황 목록이다.
@@ -20,19 +22,30 @@
 | `ch04_hero.png` | `chapters/04_아들러_씨의_재무_상담소.md` |
 | `ch05_hero.png` | `chapters/05_지도는_됐고_나침반이나_주세요.md` |
 | `ch06_hero.png` | `chapters/06_당신의_재무_상태를_열어보세요.md` |
+| `ch06_worksheet_map_v1.png` | `chapters/06_당신의_재무_상태를_열어보세요.md` |
 | `ch07_hero.png` | `chapters/07_지속_가능한_성장의_마법.md` |
 | `img_1.png` | `chapters/07_지속_가능한_성장의_마법.md` |
 | `ch08_hero.png` | `chapters/08_대충_합리적인_따뜻한_투자.md` |
+| `ch08_reasonable_comparison_v1.png` | `chapters/08_대충_합리적인_따뜻한_투자.md` |
 | `ch09_hero.png` | `chapters/09_부의_무한_게임_생존.md` |
+| `ch09_survival_dashboard_v1.png` | `chapters/09_부의_무한_게임_생존.md` |
 | `ch10_hero.png` | `chapters/10_거인들의_어깨_위에서_대충_날기.md` |
 | `img_3.png` | `chapters/10_거인들의_어깨_위에서_대충_날기.md` |
-| `img_2.png` | `chapters/10_거인들의_어깨_위에서_대충_날기.md` |
+| `ch10_portfolio_map_v1.png` | `chapters/10_거인들의_어깨_위에서_대충_날기.md` |
 | `ch11_hero_v2.png` | `chapters/11_인생의_사계절.md` |
 | `ch11_midlife_balance_v2.png` | `chapters/11_인생의_사계절.md` |
 | `ch11_retirement_defense_v2.png` | `chapters/11_인생의_사계절.md` |
 | `ch12_hero.png` | `chapters/12_히든_스테이지_성실함보다_벌기의_판을_키워라.md` |
+| `ch12_pipeline_trees_v1.png` | `chapters/12_히든_스테이지_성실함보다_벌기의_판을_키워라.md` |
+| `ch13_inventory_map_v1.png` | `chapters/13_부록_부의_게임_인벤토리_상세_가이드.md` |
 | `ch14_hero_v2.png` | `chapters/14_에필로그.md` |
 | `ch14_closing_system_v2.png` | `chapters/14_에필로그.md` |
+
+## Superseded Retained Images
+
+| image | status |
+|---|---|
+| `img_2.png` | 10장 `운용 레시피` 보조 이미지였으나, 2026-04-29 Round 2에서 `ch10_portfolio_map_v1.png`로 대체. 삭제하지 않고 원본 위치에 보관 중. |
 
 ## Archived Images
 

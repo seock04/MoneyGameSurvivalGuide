@@ -1,0 +1,9 @@
+Use case: infographic-diagram
+Asset type: Korean personal finance book chapter illustration, 16:9 PNG-style raster asset
+Primary request: Create a warm, minimal, friendly portfolio map illustration that connects broad market index investing, dollar/global assets, bonds, gold, and cash as roles in one long-term investment system.
+Scene/backdrop: A gentle nautical map spread on a wooden table, with soft daylight and a calm horizon visible in the background.
+Subject: A small character places simple role tokens on the map: a wide market basket filled with many tiny dots, a small globe and dollar-like neutral coin symbol without actual currency text, a shield-like bond token, a small gold-colored stone token, and a cash cushion token. Subtle routes connect them to a balanced compass at the center.
+Style: warm rationality, soft editorial illustration, clean composition, practical and reassuring, Korean book illustration feel.
+Text policy: no readable text, no numbers, no ETF tickers, no brand names, no logos, no watermarks. Use icons only.
+Avoid: trading screens, luxury, famous investors, flags, specific products, hype.
+Composition: central map, clear relationship lines, enough empty space, suitable for Markdown insertion, 16:9.

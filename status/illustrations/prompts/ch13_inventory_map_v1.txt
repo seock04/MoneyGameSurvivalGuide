@@ -1,0 +1,9 @@
+Use case: infographic-diagram
+Asset type: Korean personal finance book appendix illustration, 16:9 PNG-style raster asset
+Primary request: Create a warm, minimal, friendly inventory map illustration for an appendix that gathers financial tools from the book.
+Scene/backdrop: A quiet wooden workbench with a neatly opened toolkit or drawer, soft morning light, calm study atmosphere.
+Subject: Inside the toolkit are icon-only cards and small objects representing key tools: personal finance worksheet, money script lens, SMART goal compass, rule-of-72 hourglass, all-weather umbrella/shield, diversified investment basket. A small character is arranging the tools as if preparing a practical reference kit.
+Style: warm rationality, soft editorial illustration, organized, practical, Korean book illustration feel, minimal but rich.
+Text policy: no readable text, no numbers, no tickers, no brand names, no logos, no watermarks. Icons only.
+Avoid: decorative clutter, luxury, fear imagery, product recommendation feel.
+Composition: centered open toolkit, each tool visually distinct, generous margins, suitable for Markdown insertion, 16:9.
