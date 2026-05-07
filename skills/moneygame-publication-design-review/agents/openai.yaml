@@ -1,0 +1,6 @@
+interface:
+  display_name: "MoneyGame Publication Design Review"
+  short_description: "표지·삽화 출판 디자인 리뷰"
+  default_prompt: "Use $moneygame-publication-design-review to review the cover and chapter illustrations for ebook and print publication readiness."
+policy:
+  allow_implicit_invocation: true
