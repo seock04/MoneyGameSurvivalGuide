@@ -76,7 +76,7 @@ Implication:
 
 - `chapters/` 원고를 출간 후보본으로 freeze한다.
 - status 문서, audit 문서, 강연/코칭 자료는 EPUB에 포함하지 않는다.
-- 표지: `chapters/images/cover_b_v2.png`
+- 표지: `chapters/images/cover_final_front.svg`
 - 이미지: 본문에서 참조하는 이미지만 포함한다.
 
 ### 2. Ebook Manuscript Assembly
@@ -127,7 +127,7 @@ pandoc build/ebook/manuscript.md \
   --toc-depth=2 \
   --metadata-file build/ebook/metadata.yaml \
   --css build/ebook/ebook.css \
-  --epub-cover-image chapters/images/cover_b_v2.png \
+  --epub-cover-image chapters/images/cover_final_front.svg \
   -o dist/ebook/moneygame_survival_guide.epub
 ```
 

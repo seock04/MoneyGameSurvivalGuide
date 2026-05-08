@@ -11,7 +11,7 @@
 | Publisher / Imprint | 대행·셀프 플랫폼 경로 우선 | route decision captured |
 | Language | ko-KR | ready |
 | Format | EPUB3 reflowable | recommended |
-| Cover | `chapters/images/cover_b_v2.png` | ready |
+| Cover | `chapters/images/cover_final_front.svg` | ready |
 | ISBN | 플랫폼 대행 발급/관리 조건 확인 | route dependent |
 | Publication date | TBD | decision needed |
 | Category | 경제/경영 > 재테크/투자 후보 | needs platform mapping |

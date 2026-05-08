@@ -59,6 +59,7 @@
 
 ## Current Asset Decision
 
-- `chapters/images/cover_b_v2.png`는 원고 검토용 표지로 유지한다.
-- 최종 출간본에서는 같은 파일을 그대로 확대하지 않는다.
-- 새 표지 원본이 만들어지면 파일명을 `cover_final_ebook.png` 또는 출판사 전달 규칙에 맞춘 이름으로 별도 보관한다.
+- `chapters/images/cover_b_v2.png`는 원고 검토용 이전 표지로 유지한다.
+- 최종 출간용 앞표지 원본은 `chapters/images/cover_final_front.svg`를 기준으로 관리한다.
+- `cover_final_front.svg`는 1800x2700 viewBox의 벡터 원본이므로 ebook 표지와 종이책 앞표지 제작의 기준 파일로 사용할 수 있다.
+- 책등과 뒷표지는 최종 판형, 페이지 수, 용지 두께가 확정된 뒤 별도 확장 파일로 제작한다.

@@ -25,7 +25,7 @@ dist/ebook/
 
 | Input | Path | Use |
 |---|---|---|
-| 표지 | `chapters/images/cover_b_v2.png` | EPUB cover image |
+| 표지 | `chapters/images/cover_final_front.svg` | EPUB cover image |
 | 목차 | `chapters/00_목차.md` | 책 목차 정리용 |
 | 프롤로그 | `chapters/00_프롤로그.md` | 본문 포함 |
 | 본문 | `chapters/01_*.md` ~ `chapters/14_*.md` | 본문 포함 |
@@ -83,7 +83,7 @@ pandoc build/ebook/manuscript.md \
   --toc-depth=2 \
   --metadata-file build/ebook/metadata.yaml \
   --css build/ebook/ebook.css \
-  --epub-cover-image chapters/images/cover_b_v2.png \
+  --epub-cover-image chapters/images/cover_final_front.svg \
   -o dist/ebook/moneygame_survival_guide.epub
 ```
 

@@ -10,7 +10,7 @@ Updated: 2026-04-29 Round 2 enrichment patch
 
 | image | referenced by |
 |---|---|
-| `cover_b_v2.png` | `chapters/00_표지.md` |
+| `cover_final_front.svg` | `chapters/00_표지.md` |
 | `ch00_hero.png` | `chapters/00_프롤로그.md` |
 | `ch01_hero_v2.png` | `chapters/01_부의_게임_시작하기.md` |
 | `ch01_inflation_v2.png` | `chapters/01_부의_게임_시작하기.md` |
