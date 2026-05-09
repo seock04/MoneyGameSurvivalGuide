@@ -28,4 +28,5 @@
 - Coach:
 - Psych:
 - Humor:
+- Korean:
 ```

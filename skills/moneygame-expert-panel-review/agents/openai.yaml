@@ -1,7 +1,7 @@
 interface:
   display_name: "MoneyGame Expert Panel Review"
-  short_description: "패널 관점 원고 리뷰"
-  default_prompt: "Use $moneygame-expert-panel-review to review a small scope (default: 1 chapter) with the 5-persona panel, using assets/target_audience.md as the reader reference; propose improvements only (do not edit chapters without explicit approval), and save a report under status/expert_panel_review/ using the template, step-by-step."
+  short_description: "6인 패널 관점 원고 리뷰"
+  default_prompt: "Use $moneygame-expert-panel-review to review a small scope (default: 1 chapter) with the 6-persona panel, including the Korean language scholar lens for grammar, sentence naturalness, and context fit. Use assets/target_audience.md as the reader reference; propose improvements only (do not edit chapters without explicit approval), and save a report under status/expert_panel_review/ using the template, step-by-step."
 
 policy:
   allow_implicit_invocation: false

@@ -22,6 +22,7 @@
 - length_pacing_risk:
 - glossary_risk:
 - question_quality_risk:
+- korean_language_risk:
 
 #### Strengths
 
@@ -71,6 +72,7 @@
 - Coach:
 - Psych:
 - Humor:
+- Korean:
 
 ## Next Action
 
