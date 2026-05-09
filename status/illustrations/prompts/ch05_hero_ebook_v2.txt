@@ -1,0 +1,11 @@
+목적: 5장의 북극성, 나침반, 재무목표를 새 원고 톤에 맞는 ebook용 hero로 교체한다.
+
+Use case: illustration-story
+Asset type: ebook chapter hero illustration, 16:9 landscape, no text in image
+Primary request: Create a publication-ready chapter hero for chapter 5, about setting a North Star life direction and practical financial goals rather than chasing every map.
+Scene/backdrop: A warm desk by a window at dusk, an open map with many faint paths, a brass compass aligned toward a bright North Star visible outside, small goal cards shown as blank simple cards, a calm adult choosing one path.
+Subject: The relationship between life direction and financial goals, with compass and North Star as central metaphor.
+Style direction: sophisticated warm editorial book illustration, watercolor-gouache texture, adult practical finance ebook, muted warm neutrals, sage green, deep teal, soft gold light.
+Composition: compass and map central, North Star visible but not magical, ordinary desk objects and notebook, clear 16:9 horizontal crop, readable on mobile.
+Mood: calm, focused, encouraging, grounded.
+Avoid: readable words or letters, fantasy quest map overload, treasure chest, luxury travel flex, stock charts, fear, childish cartoon, brand logos, watermarks.

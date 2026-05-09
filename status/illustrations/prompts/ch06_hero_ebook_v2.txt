@@ -1,0 +1,11 @@
+목적: 6장의 현재 좌표 확인과 재무 상태 점검을 비난 없는 실용 이미지로 교체한다.
+
+Use case: illustration-story
+Asset type: ebook chapter hero illustration, 16:9 landscape, no text in image
+Primary request: Create a publication-ready chapter hero for chapter 6, about opening your current financial state and checking assets, debts, income, expenses, and cash flow without shame.
+Scene/backdrop: A tidy warm desk with a simple open ledger, blank cards arranged into four groups using icons only: house/asset, small weight/debt, incoming stream/income, outgoing stream/expense. A calm adult places the cards on a simple map-like worksheet.
+Subject: Financial state as current coordinates, a practical map rather than a judgment.
+Style direction: sophisticated warm editorial book illustration, watercolor-gouache texture, practical adult finance ebook, muted warm neutrals, sage green, deep teal, soft daylight.
+Composition: top-down three-quarter desk scene, worksheet/cards central, person hands only or partial figure, clear at small ebook size, 16:9 horizontal.
+Mood: calm, organized, nonjudgmental, useful.
+Avoid: readable words or letters, exact numbers, red warning marks, debt shame, luxury, stock charts, clutter, childish game UI, brand logos, watermarks.

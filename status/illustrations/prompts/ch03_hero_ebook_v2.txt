@@ -1,0 +1,11 @@
+목적: 3장의 돈 기억과 마음속 대본을 현재 원고 흐름에 맞는 ebook용 일러스트로 교체한다.
+
+Use case: illustration-story
+Asset type: ebook chapter hero illustration, 16:9 landscape, no text in image
+Primary request: Create a publication-ready chapter hero for chapter 3, about money memories and the hidden money script that shapes present decisions.
+Scene/backdrop: A quiet study table with an open notebook, old faded family memory photos shown as abstract blank frames, a wallet, a pencil gently editing a script page, and a calm adult looking at the page with curiosity rather than shame.
+Subject: The idea of rewriting an old money script into a kinder, more useful interpretation.
+Style direction: sophisticated warm editorial book illustration, watercolor-gouache texture, clean adult finance-book look, muted warm neutrals, sage green, deep teal, soft amber light.
+Composition: central script page and pencil, memory frames in the background, wallet and small compass as supporting objects, clear at small ebook size, 16:9 horizontal.
+Mood: reflective, safe, compassionate, not childish, not therapy cliché.
+Avoid: readable words or letters, dramatic trauma imagery, crying, broken bank, stock charts, luxury, fear, exaggerated game UI, clutter, brand logos, watermarks.

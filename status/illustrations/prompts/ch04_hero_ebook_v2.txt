@@ -1,0 +1,11 @@
+목적: 4장의 아들러식 관점 바꾸기를 성인 독자용 출판 일러스트로 교체한다.
+
+Use case: illustration-story
+Asset type: ebook chapter hero illustration, 16:9 landscape, no text in image
+Primary request: Create a publication-ready chapter hero for chapter 4, about Adler-style reframing of money problems: changing the frame rather than blaming the person.
+Scene/backdrop: A calm counseling-room-like desk, not clinical; two picture frames on the table, one old dim frame and one newly polished frame showing the same simple path from a different angle. A wallet, small sailboat model, pencil, and warm lamp sit nearby.
+Subject: An ordinary adult gently replacing an old frame with a clearer one, symbolizing reframing financial memories and choices.
+Style direction: sophisticated warm editorial book illustration for adult ebook, watercolor-gouache texture, clean composition, muted warm neutrals with sage green and deep teal, soft amber lighting.
+Composition: old frame on left, new frame on right, hands in the middle changing the frame; clear at ebook thumbnail size, 16:9 horizontal.
+Mood: thoughtful, grounded, hopeful, psychologically safe.
+Avoid: readable words or letters, therapist stereotypes, shame, broken money, courtroom imagery, luxury, fear, childish cartoon, brand logos, watermarks.

@@ -1,0 +1,6 @@
+interface:
+  display_name: "MoneyGame Book Illustration Designer"
+  short_description: "책 표지·챕터 일러스트 감사와 제작"
+  default_prompt: "Use $moneygame-book-illustration-designer to audit the MoneyGameSurvivalGuide cover and chapter illustrations, decide an ebook-ready visual style with publishing lead priority, then plan and generate replacement illustrations where needed."
+policy:
+  allow_implicit_invocation: true

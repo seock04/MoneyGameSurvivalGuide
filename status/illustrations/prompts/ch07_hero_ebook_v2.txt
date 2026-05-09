@@ -1,0 +1,11 @@
+목적: 7장의 복리와 시간을 과장 없이, 오래 유지하는 작은 시스템으로 보여주는 ebook용 hero로 교체한다.
+
+Use case: illustration-story
+Asset type: ebook chapter hero illustration, 16:9 landscape, no text in image
+Primary request: Create a publication-ready chapter hero for chapter 7, about compound growth, time, and the value of not interrupting a small long-term system.
+Scene/backdrop: A calm snowy hillside or quiet desk-window scene where a small snowball gently grows along a clear path into the distance, paired with a small recurring calendar/automatic transfer icon represented visually without text. Warm sunrise light despite the snow.
+Subject: Small repeated action plus time creates sustainable growth; the snowball should feel modest and realistic, not magical or guaranteed.
+Style direction: sophisticated warm editorial book illustration, watercolor-gouache texture, adult practical finance ebook, muted winter neutrals with sage green, deep teal, soft gold light.
+Composition: small snowball in foreground, winding path showing gradual growth, subtle clock/hourglass or calendar object, ordinary adult figure observing calmly, 16:9 horizontal, clear at small size.
+Mood: patient, steady, trustworthy, not hype.
+Avoid: readable words or letters, money multiplying magically, giant gold coins, guaranteed growth, stock charts, luxury, fantasy, fear, childish cartoon, brand logos, watermarks.

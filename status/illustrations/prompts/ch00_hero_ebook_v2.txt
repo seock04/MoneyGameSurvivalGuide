@@ -1,0 +1,11 @@
+목적: 프롤로그의 심리적 지연과 작은 첫 실행을 ebook용 성인 실용서 일러스트로 교체한다.
+
+Use case: illustration-story
+Asset type: ebook chapter hero illustration, 16:9 landscape, no text in image
+Primary request: Create a publication-ready Korean finance self-help book illustration for the prologue of a book about overcoming psychological delay and taking a small first step into money management.
+Scene/backdrop: A quiet warm desk at dawn, a laptop or tablet showing a simple login doorway icon without readable text, a hand about to press a calm glowing button, a small notebook with a single checked item, a cup of tea, a compass and a small seedling nearby.
+Subject: One ordinary adult reader, calm and slightly thoughtful, beginning gently rather than rushing.
+Style direction: sophisticated warm editorial book illustration, watercolor-gouache texture with clean shapes, soft natural light, muted warm neutrals with sage green and deep teal accents, consistent with a practical finance ebook for adults.
+Composition: strong central action, generous margins, simple silhouette readable on a small ebook screen, 16:9 horizontal crop.
+Mood: reassuring, not childish, not promotional, not anxious.
+Avoid: readable words or letters, luxury imagery, coins raining, stock charts, gambling, fear, fantasy armor, exaggerated game UI, clutter, brand logos, watermarks.
