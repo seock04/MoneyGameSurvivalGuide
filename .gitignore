@@ -2,3 +2,5 @@
 .env
 .env.*
 chapters/images/*_placeholder.png
+build/ebook/moneygame_survival_guide.html
+build/ebook/pdf_assets/
