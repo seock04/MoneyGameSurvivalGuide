@@ -14,6 +14,7 @@ VERY_LONG_PARAGRAPH = 760
 LONG_LINE = 150
 LONG_TABLE_LINE = 130
 LIST_RUN = 8
+UNICODE_BULLETS = ("•", "👉", "→")
 
 
 def display_width(text: str) -> int:
@@ -81,10 +82,22 @@ def scan_file(path: Path):
         is_table = stripped.startswith("|") and stripped.endswith("|")
         is_block = stripped.startswith(">") or stripped.startswith("<")
         is_image = "![" in stripped and "](" in stripped
+        is_unicode_bullet = stripped.startswith(UNICODE_BULLETS)
 
         if is_image:
             for match in re.finditer(r"!\[[^\]]*\]\(([^)]+)\)", stripped):
                 image_refs.append((idx, match.group(1)))
+
+        if is_unicode_bullet:
+            findings.append(
+                {
+                    "severity": "Medium",
+                    "path": path,
+                    "line": idx,
+                    "kind": "unicode_bullet_not_markdown",
+                    "message": "line may collapse into the previous paragraph in Markdown renderers",
+                }
+            )
 
         if is_list:
             if list_run_start is None:
