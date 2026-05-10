@@ -3,10 +3,20 @@
 ## 100개 기획 항목 포맷(권장)
 
 ```md
-| id | title | one_liner | misconception | action | chapter_sources |
-|---:|---|---|---|---|---|
-| 1 | ... | ... | ... | ... | Book: [Chapter 2](../../chapters/02_...md) |
+| id | title | reader_problem | one_liner | proof_or_example | action_cta | chapter_sources |
+|---:|---|---|---|---|---|---|
+| 1 | ... | ... | ... | ... | ... | Book: [Chapter 2](../../chapters/02_...md) |
 ```
+
+## Cross-Format 적용 규칙
+
+책 원고를 블로그로 바꿀 때는 `skills/moneygame-reading-layout-auditor/references/content_shape_decision.md`를 기준으로 다음 구조를 우선한다.
+
+- 첫 화면: 독자 문제, 결론, 읽을 이유가 보여야 한다.
+- 본문: 책의 긴 설명은 `핵심 메시지 -> 근거/예시 -> 실행 CTA`로 접는다.
+- 표/비교: 모바일 기준 3열 이하가 원칙이다. 4열 이상이면 카드형 비교, 요약 박스, 이미지/도표로 바꾼다.
+- 질문: 책의 체크인/레벨업 질문은 블로그의 댓글 질문, 저장용 체크리스트, 오늘의 퀘스트로 변환한다.
+- 이미지: 대표 이미지는 글의 결론을 보여주고, 보강 이미지는 실행 행동 하나를 강화한다.
 
 ## Sources 섹션 포맷
 

@@ -1,7 +1,7 @@
 interface:
   display_name: "MoneyGame Coaching Design"
-  short_description: "코칭 설계/자료 생성"
-  default_prompt: "Use $moneygame-coaching-design to design book-based coaching programs tailored to assets/target_audience.md and generate slides/worksheets under Additionals/financial_coaching/ step-by-step."
+  short_description: "코칭·워크시트 구조화"
+  default_prompt: "Use $moneygame-coaching-design to design book-based coaching programs and generate slides/worksheets under Additionals/financial_coaching/. Apply the cross-format content shape rules so each session separates core message, misconception, coaching question, exercise, and next action."
 
 policy:
   allow_implicit_invocation: false

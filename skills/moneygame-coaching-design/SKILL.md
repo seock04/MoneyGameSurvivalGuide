@@ -1,6 +1,6 @@
 ---
 name: moneygame-coaching-design
-description: MoneyGameSurvivalGuide 책 내용을 기반으로 '세계최고의 재무코치' 페르소나로 재무 코칭(1:1 반구조화 3회, 그룹 3회, 그룹+1:1 하이브리드)을 설계하고, 각 프로그램의 발표자료(슬라이드 아웃라인)와 워크시트를 Additionals/financial_coaching/ 아래에 생성/갱신할 때 사용한다.
+description: MoneyGameSurvivalGuide 책 내용을 기반으로 '세계최고의 재무코치' 페르소나로 재무 코칭(1:1 반구조화 3회, 그룹 3회, 그룹+1:1 하이브리드)을 설계하고, 각 프로그램의 발표자료(슬라이드 아웃라인)와 워크시트를 Additionals/financial_coaching/ 아래에 생성/갱신할 때 사용한다. 책 원고를 코칭 세션, 워크시트, 슬라이드로 옮길 때는 cross-format 콘텐츠 구조 기준을 참고해 핵심 메시지, 코칭 질문, 실습 행동이 분리되어 전달되도록 점검한다.
 ---
 
 # MoneyGame Coaching Design
@@ -13,6 +13,7 @@ description: MoneyGameSurvivalGuide 책 내용을 기반으로 '세계최고의 
 - `Additionals/RULES.md`를 따른다. (책 기반, 독립 주장 금지, `## Sources`에 챕터 링크 필수)
 - 단계별로 진행한다. 사용자가 이해/동의하지 않은 내용은 확정해서 넣지 않는다. (`AGENTS.md`)
 - 특정 종목/상품 추천, 수익 보장, 매매 타이밍 예언을 하지 않는다.
+- 책 원고의 설명을 그대로 강의하지 않고, 코칭 참여자가 이해하고 답하고 실행할 수 있는 `메시지 -> 질문 -> 실습 -> 다음 행동` 구조로 변환한다.
 
 ## Output Locations (fixed)
 
@@ -57,6 +58,8 @@ description: MoneyGameSurvivalGuide 책 내용을 기반으로 '세계최고의 
 3. 슬라이드 아웃라인을 만든다
    - 각 회차별로 "핵심 메시지 1개 + 오해 1개 + 실습 1개"를 기준으로 슬라이드를 구성한다.
    - 슬라이드는 이 repo에서는 Markdown 아웃라인으로 관리한다.
+   - 슬라이드 제목은 주제어가 아니라 결론문으로 작성한다. 한 슬라이드에는 하나의 주장만 둔다.
+   - 책의 긴 표는 코칭용으로 `해석 질문`, `선택지 비교`, `워크시트 입력란` 중 하나로 바꾼다.
 
 4. 워크시트를 만든다
    - 인벤토리(재무상태/현금흐름), 목표(SMART/북극성), 자동 사냥(자동이체/리밸런싱), 리스크(비상금/레버리지 금지) 중심
@@ -69,3 +72,5 @@ description: MoneyGameSurvivalGuide 책 내용을 기반으로 '세계최고의 
 
 필요 시 다음 템플릿을 읽는다:
 - `skills/moneygame-coaching-design/references/templates.md`
+- 책/코칭/슬라이드/워크시트 간 전달 구조 판단이 필요하면 `skills/moneygame-reading-layout-auditor/references/content_shape_decision.md`를 읽는다.
+- 최근 전체 원고 cross-format 검수 결과가 필요하면 `status/reading_layout_audit/2026-05-10_cross_format.md`를 참고한다.

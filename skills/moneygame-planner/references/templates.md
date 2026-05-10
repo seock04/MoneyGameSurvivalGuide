@@ -95,6 +95,10 @@
 
 ## Goal
 
+## Cross-Format Source
+- Content shape rules: `skills/moneygame-reading-layout-auditor/references/content_shape_decision.md`
+- Latest audit: `status/reading_layout_audit/2026-05-10_cross_format.md`
+
 ## Flow
 - Intro
 - Core 1
@@ -102,11 +106,26 @@
 - Action plan
 - Q&A
 
+## Slide Message Map
+| # | assertion_title | evidence_or_visual | speaker_note_role | audience_action | sources |
+|---:|---|---|---|---|---|
+| 1 | ... | ... | ... | ... | Book: ... |
+
 ## Exercises (선택)
 
 ## Sources
 - Book: ...
 ```
+
+## 강연 콘텐츠 전환 규칙
+
+책 원고를 강연 콘텐츠로 계획할 때는 다음 기준을 로드맵과 산출물 DoD에 넣는다.
+
+- 한 슬라이드에는 하나의 주장만 둔다.
+- 슬라이드 제목은 주제어가 아니라 결론문이어야 한다.
+- 책의 긴 표는 슬라이드 본문에 붙이지 않는다. 핵심 숫자 1~3개, 차트, handout, 백업 슬라이드 중 하나로 변환한다.
+- 발표자가 말할 내용은 speaker notes로 보내고, 화면에는 청중이 기억할 메시지만 남긴다.
+- 강연 마지막에는 감동 요약보다 10분 안에 할 수 있는 실행 행동을 남긴다.
 
 ## 코칭 프로그램 골격 (3회차)
 

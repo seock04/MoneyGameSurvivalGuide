@@ -1,4 +1,4 @@
 interface:
   display_name: "MoneyGame Reading Layout Auditor"
-  short_description: "책 원고의 종이책·전자책 가독성과 화면 배치를 검수한다."
-  default_prompt: "MoneyGame 원고를 종이책, 모바일 ebook, 태블릿 ebook, PC 화면 기준으로 읽기 좋게 배치되어 있는지 검수하고 개선 우선순위를 리포트로 남겨줘."
+  short_description: "책·블로그·PPT 전환까지 고려해 콘텐츠 전달 구조와 가독성을 검수한다."
+  default_prompt: "MoneyGame 원고를 종이책, 모바일 ebook, 태블릿 ebook, PC 화면 기준으로 읽기 좋게 배치되어 있는지 검수하고, 추후 블로그 글이나 PPT 슬라이드로 전환해도 핵심 메시지와 실행 항목이 잘 전달되는지 개선 우선순위를 리포트로 남겨줘."
